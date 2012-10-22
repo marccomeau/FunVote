@@ -1,6 +1,7 @@
 FunVote
 =======
 
+<<<<<<< HEAD
 Arduino based voting machine for entertainment
 
 This code was written to create a physical voting system with live feedback
@@ -16,3 +17,5 @@ Thanks to Arduino tutorial http://www.arduino.cc/en/Tutorial/button
 Thanks to Todd Holoubek's tutorial http://www.toddholoubek.com/classes/pcomp/?page_id=58
 
 By Marc Comeau, Sarah Simpkin and Corey Ha
+=======
+>>>>>>> Updated Readme
