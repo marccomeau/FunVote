@@ -1,8 +1,6 @@
 FunVote
 =======
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Arduino based voting machine for entertainment
 
 This code was written to create a physical voting system with live feedback
@@ -17,10 +15,8 @@ Thanks to the Sparkfun Arduino kit manual
 Thanks to Arduino tutorial http://www.arduino.cc/en/Tutorial/button
 Thanks to Todd Holoubek's tutorial http://www.toddholoubek.com/classes/pcomp/?page_id=58
 
-By Marc Comeau, Sarah Simpkin and Corey Ha
-=======
->>>>>>> Updated Readme
-=======
-Arduino based voting machine for entertainment
+The code and schematic are prototypes for the concept 
+We've added a picture to illustrate the concept which would use a large display of come sort
+and hacked Staples Easy buttons or something of the same size as the input
 
->>>>>>> Updating Readme
+By Marc Comeau, Sarah Simpkin and Corey Ha
